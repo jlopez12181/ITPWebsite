@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'D:/PHP_ROOT/ITPProject/app/config/routing_dev.yml'
